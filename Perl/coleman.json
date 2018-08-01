@@ -1,0 +1,11 @@
+{
+    "name":"Coleman Lyski",
+    "age":"20",
+    "weight_history":
+    [
+        {"weight":"180","year":"2018","month":"6","day":"2"},
+        {"day":"9","month":"6","year":"2018","weight":"181"},
+        {"year":"2018","weight":"183","day":"16","month":"6"},
+        {"weight":"184","year":"2018","day":"23","month":"6"}
+    ]
+}
